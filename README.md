@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Leigh 🎇
 
-<!--
-**TriStrac/TriStrac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Picture](https://avatars.githubusercontent.com/TriStrac)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer specializing in Spring Boot, Android, and ReactJS. I'm passionate about building efficient and scalable applications.
+
+## Skills
+
+- **Languages**: Java, JavaScript, HTML, CSS
+- **Frameworks**: Spring Boot, ReactJS, Retrofit
+- **Tools**: Git, Docker, Jenkins
+- **Databases**: MySQL, MongoDB
+
+## GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriStrac&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriStrac&layout=compact&theme=radical)
+
