@@ -19,5 +19,5 @@ I'm a software developer specializing in Spring Boot, Android, and ReactJS. I'm 
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriStrac&layout=compact&theme=radicalhide=css,html)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriStrac&layout=compact&theme=radical&hide=css,html)
 
