@@ -7,7 +7,6 @@
 I'm a software developer specializing in Spring Boot, Android, and ReactJS. I'm passionate about building efficient and scalable applications.
 
 ## Skills
-
 ### Programming Languages
 <div style="display: flex; flex-wrap: wrap; align-items: center;">
     <div style="text-align: center; margin: 10px;">
