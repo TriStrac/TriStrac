@@ -1,10 +1,16 @@
 # Hi there, I'm Leigh(TriStrac) 🎇
 
-![Profile Picture](https://avatars.githubusercontent.com/TriStrac)
-
 ## About Me
 
-I'm a software developer specializing in Spring Boot, Android, and ReactJS. I'm passionate about building efficient and scalable applications.
+Hello! I'm Leigh , a 4th-year I.T. student at University of Cebu, where I’m building a strong foundation in programming despite the many challenges and failures along the way. My journey has been full of learning experiences, and I'm excited about the future as I focus on studying and landing my first internship.
+
+Currently, I'm eager to apply and expand my skillset in a real-world setting. I also look forward to collaborating with others and working in a team environment, as I believe that shared experiences are a great way to grow and innovate.
+
+Inspired by my experiences and setbacks, I’m motivated to keep pushing forward and trying new things. Outside of coding, I’m an avid PC gamer with a diverse taste in games and a proud cat owner of two adorable felines.
+
+Feel free to reach out on my social medias if you share similar interests or if you’re interested in discussing potential opportunities or collaborations!
+
+Yes I asked AI for some help to make this entire Readme, and you can too :>>
 
 ## Skills
 
