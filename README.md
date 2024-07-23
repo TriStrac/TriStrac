@@ -7,30 +7,86 @@
 I'm a software developer specializing in Spring Boot, Android, and ReactJS. I'm passionate about building efficient and scalable applications.
 
 ## Skills
+
 ### Programming Languages
-- C# <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
-- Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-- Kotlin <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-- JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<div style="display: flex; align-items: center;">
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
+        <div>C#</div>
+    </div>
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+        <div>Java</div>
+    </div>
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+        <div>Kotlin</div>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+        <div>JavaScript</div>
+    </div>
+</div>
 
 ### Frameworks and Libraries
-- Spring Boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-- ReactJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-- ASP.NET 4 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+<div style="display: flex; align-items: center;">
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+        <div>Spring Boot</div>
+    </div>
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+        <div>ReactJS</div>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
+        <div>ASP.NET 4</div>
+    </div>
+</div>
 
 ### Web Development
-- HTML <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-- CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<div style="display: flex; align-items: center;">
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+        <div>HTML</div>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+        <div>CSS</div>
+    </div>
+</div>
 
 ### Databases
-- MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-- Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/>
-- MSSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+<div style="display: flex; align-items: center;">
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+        <div>MongoDB</div>
+    </div>
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="40" height="40"/>
+        <div>Firebase</div>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="40" height="40"/>
+        <div>MSSQL</div>
+    </div>
+</div>
 
 ### Design and Multimedia Software
-- Adobe After Effects <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
-- Adobe Premiere Pro <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
-- Adobe Photoshop <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
+<div style="display: flex; align-items: center;">
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="40" height="40"/>
+        <div>Adobe After Effects</div>
+    </div>
+    <div style="text-align: center; margin-right: 20px;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" width="40" height="40"/>
+        <div>Adobe Premiere Pro</div>
+    </div>
+    <div style="text-align: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" width="40" height="40"/>
+        <div>Adobe Photoshop</div>
+    </div>
+</div>
 
 
 ## GitHub Stats
