@@ -105,6 +105,7 @@ Yes I asked AI for some help to make this entire Readme, and you can too :>>
 </table>
 
 ## GitHub Stats and Top Languages
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriStrac&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriStrac&layout=compact&theme=radical&hide=css,HTML)
-
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=TriStrac&show_icons=true&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TriStrac&layout=donut&theme=radical&hide=css,HTML">
+</p>
