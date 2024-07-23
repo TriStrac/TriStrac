@@ -104,10 +104,14 @@ Yes I asked AI for some help to make this entire Readme, and you can too :>>
   </tr>
 </table>
 
-## GitHub Stats
+## GitHub Stats and Top Languages
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriStrac&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px;">
+    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TriStrac&show_icons=true&theme=radical)
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriStrac&layout=compact&theme=radical&hide=css,HTML)
+  </div>
+</div>
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TriStrac&layout=compact&theme=radical&hide=css,html)
