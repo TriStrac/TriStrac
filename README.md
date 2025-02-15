@@ -2,7 +2,7 @@
 
 ## About Me
 
-Hello! I'm Leigh , a 4th-year I.T. student at University of Cebu, where I’m building a strong foundation in programming despite the many challenges and failures along the way. My journey has been full of learning experiences, and I'm excited about the future as I focus on studying and landing my first internship.
+Hello! I'm Leigh , an student at University of Cebu, where I’m building a strong foundation in programming despite the many challenges and failures along the way. My journey has been full of learning experiences, and I'm excited about the future as I focus on studying and landing my first internship.
 
 Currently, I'm eager to apply and expand my skillset in a real-world setting. I also look forward to collaborating with others and working in a team environment, as I believe that shared experiences are a great way to grow and innovate.
 
